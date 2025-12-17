@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.test</groupId>
-  <artifactId>springAPI</artifactId>
+  <artifactId>springboot-h2-rest</artifactId>
   <version>1.0-SNAPSHOT</version>
   <packaging>jar</packaging>
 
